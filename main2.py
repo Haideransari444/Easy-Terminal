@@ -10,7 +10,7 @@ from langchain.chains import LLMChain
 import threading
 
 # Configure the Google API key
-GOOGLE_API_KEY = "AIzaSyBBolVB9_uzxnPx9iEUKTFD2D3gC407-Lc"  # Replace with your actual API key
+GOOGLE_API_KEY = ""  # Replace with your actual API key
 
 class NaturalLanguageTerminal:
     def __init__(self, root):
